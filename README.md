@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KaplunMaxym](https://github.com/KaplunMaxym)
 
-- 📝 I sometimes write articles on [https://github.com/KaplunMaxym](https://github.com/KaplunMaxym)
-
 - 💬 Ask me about **react,JavaScript, Laravel**
 
 - 📫 How to reach me **wertwertwert106@gmail.com**
