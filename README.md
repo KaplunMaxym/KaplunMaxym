@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **REST API and**
 
-- 🌱 I’m currently learning **View.js**
+- 🌱 I’m currently learning **Vie.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KaplunMaxym](https://github.com/KaplunMaxym)
 
