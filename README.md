@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KaplunMaxym](https://github.com/KaplunMaxym)
 
-- 💬 Ask someth me about **react,JavaScript, Laravel**
+- 💬 Ask someth me about **r\React,JavaScript, Laravel**
 
 - 📫 How to reach me **wertwertwert106@gmail.com**
 
