@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaplunmaxym&label=Profile%20views&color=0e75b6&style=flat" alt="kaplunmaxym" /> </p>
 
-- 🔭 I’m currently working on **REST API and**
+- 🔭 I’m currently working on **REST API**
 
 - 🌱 I’m currently learning **Nest**
 
