@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Admin dashdoard for mobile App**
 
-- 🌱 I’m currently learning **Nest**
-
 - 👨‍💻 All of my projects are available at [https://github.com/KaplunMaxym](https://github.com/KaplunMaxym)
 
 - 💬 Ask someth me about React, JavaScript, Laravel
