@@ -1,9 +1,9 @@
-<h1 align="center">Hi! I`m Maxym</h1>
+<h1 align="center">Hi! I`m Kaplun Maxym</h1>
 <h3 align="center">I am a full-stack web-developer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaplunmaxym&label=Profile%20views&color=0e75b6&style=flat" alt="kaplunmaxym" /> </p>
 
-- 🔭 I’m currently working on **Laravel progect**
+- 🔭 I’m currently working on **Nest Rest API**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KaplunMaxym](https://github.com/KaplunMaxym)
 
