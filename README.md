@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaplunmaxym&label=Profile%20views&color=0e75b6&style=flat" alt="kaplunmaxym" /> </p>
 
-- 🔭 I’m currently working on **Nest API**
+- 🔭 I’m currently working on **Nest REST API**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KaplunMaxym](https://github.com/KaplunMaxym)
 
