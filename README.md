@@ -2,9 +2,9 @@
 <h3 align="center">I am a full-stack web-developer</h3>
 <h3 align="center">Ukraine</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaplunmaxym&label=Profile%20views&color=0e75b6&style=flat" alt="kaplunmaxym" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaplunmaxym&label=Profile%20views&color=0e75b6&style=flat" alt="kaplunmaxym" /></p>
 
-- 🔭 I’m currently working on **Nest REST API**
+- 🔭 I’m currently working on **Telegram mini app**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KaplunMaxym](https://github.com/KaplunMaxym)
 
