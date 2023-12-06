@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaplunmaxym&label=Profile%20views&color=0e75b6&style=flat" alt="kaplunmaxym" /></p>
 
-- 🔭 I’m currently working on **Telegram mini app**
+- 🔭 I’m currently working on **Telegram mini app & nestjs app**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KaplunMaxym](https://github.com/KaplunMaxym)
 
