@@ -6,7 +6,7 @@
 
 - 🔭 Now working on **NEXTJS application**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KaplunMaxym](https://github.com/KaplunMaxym)
+- 👨‍💻 All my projects are available at [https://github.com/KaplunMaxym](https://github.com/KaplunMaxym)
 
 - 📫 How to reach me **wertwertwert106@gmail.com**
 
