@@ -8,7 +8,7 @@
 
 - 👨‍💻 All my projects are available at [https://github.com/KaplunMaxym](https://github.com/KaplunMaxym)
 
-- 📫 How to reach me **wertwertwert106@gmail.com**
+- 📫 Email reach me **wertwertwert106@gmail.com**
 
 <h3 align="left">Connect:</h3>
 <p align="left">
