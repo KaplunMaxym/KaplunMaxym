@@ -1,4 +1,4 @@
-zzz<h1 align="center">Hi! I`m Kaplun Maxym</h1>
+<h1 align="center">Hi! I`m Kaplun Maxym</h1>
 <h3 align="center">Full-stack web-developer</h3>
 <h3 align="center">Ternopil, Ukraine</h3>
 
