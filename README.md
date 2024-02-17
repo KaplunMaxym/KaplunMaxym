@@ -10,7 +10,7 @@
 
 - 📫 Email reach me **wertwertwert106@gmail.com**
 
-<h3 align="left">Connect:</h3>
+<h3 align="left">how to reach me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/%d0%bc%d0%b0%d0%ba%d1%81%d0%b8%d0%bc-%d0%ba%d0%b0%d0%bf%d0%bb%d1%83%d0%bd-3059121b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%d0%bc%d0%b0%d0%ba%d1%81%d0%b8%d0%bc-%d0%ba%d0%b0%d0%bf%d0%bb%d1%83%d0%bd-3059121b8/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100031755701754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100031755701754" height="30" width="40" /></a>
