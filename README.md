@@ -6,7 +6,7 @@
 
 - 🔭 Now working on **NEXTJS app**
 - 👨‍💻 Projects are available at [https://github.com/KaplunMaxym](https://github.com/KaplunMaxym)
-- 📫 Email reach me **wertwertwert106@gmail.com**
+- 📫 Email: **wertwertwert106@gmail.com**
 
 ### How to reach me:
 <p align="left">
