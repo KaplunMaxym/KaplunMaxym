@@ -8,7 +8,7 @@
 - 👨‍💻 Projects are available at [https://github.com/KaplunMaxym](https://github.com/KaplunMaxym)
 - 📫 Email: **wertwertwert106@gmail.com**
 
-### Reach me:
+### How to reach me:
 <p align="left">
 <a href="https://www.linkedin.com/in/максим-каплун-3059121b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%d0%bc%d0%b0%d0%ba%d1%81%d0%b8%d0%bc-%d0%ba%d0%b0%d0%bf%d0%bb%d1%83%d0%bd-3059121b8/" height="30" width="40" /></a>
 </p>
