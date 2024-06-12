@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaplunmaxym&label=Profile%20views&color=0e75b6&style=flat" alt="kaplunmaxym" /></p>
 
 - 🔭 Working on **NEXTJS app**
-- 👨‍💻 Projects available at:[https://github.com/KaplunMaxym](https://github.com/KaplunMaxym)
 - 📫 E-mail: **wertwertwert106@gmail.com**
 
 ### Reach me:
