@@ -1,4 +1,4 @@
-<h1 align="center">Hi!✌️, I'm Maxym</h1>
+<h1 align="center">Hi!✌️ I'm Maxym</h1>
 <h3 align="center">Web developer</h3>
 <h3 align="center">Ukraine, Ternopil</h3>
 
