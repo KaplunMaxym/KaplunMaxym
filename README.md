@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaplunmaxym&label=Profile%20views&color=0e75b6&style=flat" alt="kaplunmaxym" /></p>
 
-- 🔭 Working on **ReactNative application**
+- 🔭 Working on **React Native application**
 - 📫 Email: **wertwertwert106@gmail.com**
 
 ### Reach me:
