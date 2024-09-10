@@ -22,7 +22,17 @@
   <a href="https://www.linkedin.com/in/максим-каплун-3059121b8/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  <a href="mailto:wertwertwert106@gmail.com" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40" />
+  </a>
+  <a href="https://www.instagram.com/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40" />
+  </a>
+  <a href="https://t.me/MaxymTig" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="40" width="40" />
+  </a>
 </p>
+
 
 ---
 
