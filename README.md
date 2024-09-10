@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://i2.wp.com/onaircode.com/wp-content/uploads/2017/11/Constellation.jpg?fit=908%2C535&ssl=1" alt="Background Image" style="width:100%; height: 1000%; object-fit: cover; opacity:0.6; position:absolute; z-index:-1;"/>
-</p>
-
 <h1 align="center">👋 Kaplun Maxym</h1>
 <h3 align="center">JavaScript Developer | React Native Enthusiast</h3>
 <h3 align="center">🌍 Ukraine, Ternopil</h3>
