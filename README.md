@@ -1,4 +1,4 @@
-<h1 align="center">👋 Kaplun Maxym</h1>
+<h1 align="center">👋 Maxym Kaplun</h1>
 <h3 align="center">JavaScript Developer | React Native Enthusiast</h3>
 <h3 align="center">🌍 Ukraine, Ternopil</h3>
 
