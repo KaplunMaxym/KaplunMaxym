@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I am Maxym Kaplun</h1>
+<h1 align="center">👋 Hi, I'm Maxym Kaplun</h1>
 <h3 align="center">JavaScript Developer | React Native Developer</h3>
 <h3 align="center">🌍 Ukraine, Ternopil</h3>
 
