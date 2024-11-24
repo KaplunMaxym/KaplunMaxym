@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **React Native applications**
+- 🔭 Currently working on **Nextjs  applications**
 - 📫 Reach me at **wertwertwert106@gmail.com**
 - 🌱 Always learning and exploring new technologies in JavaScript and mobile development.
 
