@@ -1,5 +1,5 @@
 <h1 align="center">👋Hi, I'm Maxym Kaplun</h1>
-<h3 align="center">JavaScript Dev</h3>
+<h3 align="center">JS Dev</h3>
 <h3 align="center">🌍 Ukraine | Ternopil</h3>
 
 <p align="center">
