@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **Nextjs  applications**
+- 🔭 Currently working on **Nextjs app**
 - 📫 Reach me at **wertwertwert106@gmail.com**
 - 🌱 Always learning and exploring new technologies in JavaScript and mobile development.
 
