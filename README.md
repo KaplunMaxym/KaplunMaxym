@@ -82,7 +82,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub rates
 
 <p align="center">
   <a href="https://github.com/KaplunMaxym">      
