@@ -16,7 +16,7 @@
 
 ---
 
-### 📫 Connect with Me
+### 📫 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maksym-kaplun-3059121b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank">
