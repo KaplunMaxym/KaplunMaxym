@@ -10,7 +10,7 @@
 
 ### 🚀 About
 
-- 🔭 Currently working on **Nextjs app**
+- 🔭 Currently, working on **Nextjs app**
 - 📫 Email **wertwertwert106@gmail.com**
 - 🌱 Always learning and exploring new technologies in JavaScript and mobile development.
 
