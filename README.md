@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 About
+### 🚀 About me
 
 - 🔭 Currently, working on **Nextjs app**
 - 📫 Email **wertwertwert106@gmail.com**
