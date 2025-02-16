@@ -79,13 +79,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40"/> 
   </a>
 </p>
-
----
-
-### 📊 GitHub rates
-
-<p align="center">
-  <a href="https://github.com/KaplunMaxym">      
-    <img title="streak-stats" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=KaplunMaxym&theme=dark&hide_border=true&stroke=f53b3b"/>
-  </a> 
-</p>
