@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Maxym Kaplun</h1>
+<h1 align="center">🖐️ Hi, Maxym Kaplun</h1>
 <h3 align="center">JavaScript-dev</h3>
 <h3 align="center">🌍Ukraine | Ternopil</h3>
 
