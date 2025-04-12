@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 About
+### 🚀 About me
 
 - 🔭 Currently, working on **NextTS app**
 - 📫 Email **wertwertwert106@gmail.com**
