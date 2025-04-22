@@ -82,7 +82,7 @@
 
 	
 ---
-### 📊 GitHub rates
+### 📊 My rates
 <p align="center">
   <a href="https://github.com/KaplunMaxym">      
     <img title="streak-stats" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=KaplunMaxym&theme=dark&hide_border=true&stroke=f53b3b"/>
