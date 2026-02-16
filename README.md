@@ -10,7 +10,7 @@
 
 ### 🚀 About me
 
-- 🔭 Working on **NextTS app**
+- 🔭 Working on **NextTS-app**
 - 📫 Email **wertwertwert106@gmail.com**
 - 🌱 Always learning and exploring new technologies in JavaScript and mobile development.
 
